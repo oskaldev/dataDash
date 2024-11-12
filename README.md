@@ -40,7 +40,7 @@ DataDash - это административная панель с API-инте�
 from Github
 
 ```Github
-git clone https://github.com/oskaldev/online-quiz.git
+git clone https://github.com/oskaldev/dataDash.git
 ```
 
 ## Использование
