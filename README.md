@@ -45,7 +45,7 @@ git clone https://github.com/oskaldev/dataDash.git
 
 ## Использование
 
-- Администратор может войти на панель через /admin/login.php.
+- Администратор может войти на панель через [/admin/login.php.](http://artemof9.beget.tech/admin/login.php)
 - Доступ к API осуществляется через заранее определённые конечные точки.
 
 ## Заключение
