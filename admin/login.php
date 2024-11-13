@@ -1,7 +1,6 @@
 <?php
 session_set_cookie_params([
   'path' => '/',
-  'domain' => '.test-task',  // Обратите внимание на точку перед именем домена
   'secure' => false,
   'httponly' => true,
 ]);
